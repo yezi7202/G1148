@@ -1,5 +1,3 @@
 # Obsidian
 
 Obisidian repository.
-
-Hello
