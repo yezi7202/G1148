@@ -1,3 +1,10 @@
+---
+Codi de l'assignatura: "368255"
+Curs acadèmic: 2026/27
+Professor/a: Inmaculada Cristina Rodriguez Santiago (inmarodriguez@ub.edu)
+Crèdits: "6"
+Programa únic: S
+---
 # Introducció a la programació
 
 ## Pla docent
