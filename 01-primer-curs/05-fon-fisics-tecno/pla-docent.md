@@ -7,13 +7,13 @@ Curs acadèmic: 2026/27
 Coordinador/a: Francisco Palacio Bonet
 Crèdits: "6"
 Programa únic: S
+URL: https://www.ub.edu/pladocent/?cod_giga=368275&curs=2026&idioma=**CAT
 ---
 # Càlcul
 
 ## Pla docent
 
-URL: https://www.ub.edu/pladocent/?cod_giga=368275&curs=2026&idioma=**CAT
-## Índex
+
 
 
 

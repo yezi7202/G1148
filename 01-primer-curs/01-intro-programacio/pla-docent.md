@@ -10,6 +10,7 @@ Crèdits: "6"
 Programa únic: S
 URL: https://www.ub.edu/pladocent/?cod_giga=368255&curs=2026&idioma=CAT
 ---
+# Introducció a la programació
 ## Pla docent
 
 ### Hores estimades de dedicació:

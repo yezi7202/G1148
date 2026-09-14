@@ -6,13 +6,12 @@ Curs acadèmic: 2026/27
 Coordinador/a: Vincent Pilaud
 Crèdits: "6"
 Programa únic: S
+URL: https://www.ub.edu/pladocent/?cod_giga=368260&curs=2026&idioma=CAT
 ---
 # Matemàtiques discreta
 
 ## Pla docent
 
-URL: https://www.ub.edu/pladocent/?cod_giga=368260&curs=2026&idioma=CAT
-## Índex
 
 
 
