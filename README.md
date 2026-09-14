@@ -1,10 +1,7 @@
-# G1148
+# G1148 - Enginyeria informàtica
 
-UB Computer Science / Informatics Engineering Repository.
-## Introducció a la programació
-[[pla-docent]]
-[[0-presentacio.pdf]]
-[[0-planficacio-alumnat.pdf]]
+## Semestre 1
 
-[[t1-conceptes.pdf]] 
-[[t1-primers-contactes.pdf]]
+- [[intro-programacio|Introducció a la programació]]
+- [[algorismica|Algorísmica]]
+
