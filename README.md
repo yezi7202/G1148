@@ -1,5 +1,6 @@
 # G1148 - Enginyeria informàtica
 
+UB Computer Science / Informatics Engineering Markdown Repository (Obsidian).
 ## Info. general
 
 - [[grup-practiques.pdf|Grup de pràctiques]]
