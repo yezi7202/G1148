@@ -1,3 +1,3 @@
 # Obsidian
 
-Obisidian repository.
+UB Computer Science / Informatics Engineering Repository.
