@@ -12,6 +12,7 @@ Programa únic: S
 
 ## Pla docent
 
+URL: https://www.ub.edu/pladocent/?cod_giga=368275&curs=2026&idioma=**CAT
 ## Índex
 
 

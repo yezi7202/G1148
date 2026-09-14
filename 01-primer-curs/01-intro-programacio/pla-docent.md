@@ -8,9 +8,8 @@ Coordinador/a: Inmaculada Rodriguez (inmarodriguez@ub.edu)
 Professor/a: "T/P:"
 Crèdits: "6"
 Programa únic: S
+URL: https://www.ub.edu/pladocent/?cod_giga=368255&curs=2026&idioma=CAT
 ---
-# Introducció a la programació
-
 ## Pla docent
 
 ### Hores estimades de dedicació:
@@ -128,19 +127,7 @@ Qualsevol forma de **plagi o actuació fraudulenta** en les activitats d’avalu
 
 En aquesta assignatura **no està permès l’ús d’eines d’Inteŀligència Artificial Generativa** per a la realització de les activitats, ja que aquestes tenen com a objectiu avaluar el raonament, les competències i els coneixements adquirits per l’estudiant de manera individual.
 
-## Índex
 
-## Teoria
-### 0. Introducció
-
-- [[0-presentacio.pdf|Presentació de l'asignatura]]
-- [[0-planficacio-alumnat.pdf|Planificació de l'alumnat]]
-### TEMA 1: Conceptes bàsics
-
-- [[conceptes-basics|Conceptes bàsics]]
-- [[t1-primers-contactes.pdf|Primers contactes amb la programació]]
-
-## Problemes
 
 
 

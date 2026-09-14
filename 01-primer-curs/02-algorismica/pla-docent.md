@@ -6,6 +6,7 @@ Curs acadèmic: 2026/27
 Coordinador/a: Mireia Ribera (ribera@ub.edu) - Despatx 206 (2n Pis, CRAI, dins IMUB)
 Crèdits: "6"
 Programa únic: S
+URL: https://www.ub.edu/pladocent/?cod_giga=368268&curs=2026&idioma=CAT
 ---
 # Algorísmica
 
@@ -112,12 +113,6 @@ Les activitats d’avaluació es desenvoluparan d’acord amb els principis d’
 
 Qualsevol forma de plagi o actuació fraudulenta en les activitats d’avaluació pot comportar la qualificació de 0, així com l’inici d’un procediment disciplinari, d’acord amb l’article 7 del Reglament d’avaluació de la Facultat de Matemàtiques i Informàtica.
 
-## Índex
-
-### 0. Introducció
-
-- [[0-introduccio-assignatura.pdf|Introducció a l'assignatura]]
-- [[0-introduccio-programacio.pdf|Introducció a la programació]]
 
 
 
