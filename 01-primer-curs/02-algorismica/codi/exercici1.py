@@ -16,6 +16,3 @@ def comptar(a:str) -> int:
 	return a.count("a")
 
 print(comptar("hola"))
-
-
-print("'manel'")
