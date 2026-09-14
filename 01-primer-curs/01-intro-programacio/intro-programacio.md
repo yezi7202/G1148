@@ -132,7 +132,7 @@ En aquesta assignatura **no està permès l’ús d’eines d’Inteŀligència 
 - [[0-planficacio-alumnat.pdf|Planificació de l'alumnat]]
 ### TEMA 1: Conceptes bàsics
 
-- [[t1-conceptes.pdf|Conceptes bàsics]]
+- [[conceptes-basics|Conceptes bàsics]]
 - [[t1-primers-contactes.pdf|Primers contactes amb la programació]]
 
 

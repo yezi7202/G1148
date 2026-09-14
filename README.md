@@ -2,7 +2,7 @@
 
 ## Info. general
 
-- [[grup-practiques.pdf]]
+- [[grup-practiques.pdf|Grup de pràctiques]]
 ## Semestre 1
 
 - [[intro-programacio|Introducció a la programació]]

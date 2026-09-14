@@ -113,6 +113,11 @@ Qualsevol forma de plagi o actuació fraudulenta en les activitats d’avaluaci�
 
 ## Índex
 
+### 0. Introducció
+
+- [[0-introduccio-assignatura.pdf|Introducció a l'assignatura]]
+- [[0-introduccio-programacio.pdf|Introducció a la programació]]
+
 
 
 
