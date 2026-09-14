@@ -1,8 +1,9 @@
 ---
+Teoria: "M2 [Aula B2] - T: Mireia Ribera (ribera@ub.edu)"
+Problemes: CDF [Aula B1] - Muriel Rovira (muriel.rovira.esteva@ub.edu)
 Codi de l'assignatura: "368268"
 Curs acadèmic: 2026/27
 Coordinador/a: Mireia Ribera (ribera@ub.edu) - Despatx 206 (2n Pis, CRAI, dins IMUB)
-Professor/a: Mireia Ribera (ribera@ub.edu)
 Crèdits: "6"
 Programa únic: S
 ---

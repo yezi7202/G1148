@@ -1,8 +1,11 @@
 ---
+Teoria: M2 [Aula B2] - Inmaculada Rodriguez (inmarodriguez@ub.edu)
+Problemes: CDF [Aula B1] - Inmaculada Rodriguez (inmarodriguez@ub.edu)
+Laboratori: c00 (Aula IB) - David del Carmen Contreras
 Codi de l'assignatura: "368255"
 Curs acadèmic: 2026/27
-Coordinador/a: Inmaculada Cristina Rodriguez Santiago (inmarodriguez@ub.edu)
-Professor/a: Inmaculada Cristina Rodriguez Santiago (inmarodriguez@ub.edu)
+Coordinador/a: Inmaculada Rodriguez (inmarodriguez@ub.edu)
+Professor/a: "T/P:"
 Crèdits: "6"
 Programa únic: S
 ---
@@ -126,6 +129,8 @@ Qualsevol forma de **plagi o actuació fraudulenta** en les activitats d’avalu
 En aquesta assignatura **no està permès l’ús d’eines d’Inteŀligència Artificial Generativa** per a la realització de les activitats, ja que aquestes tenen com a objectiu avaluar el raonament, les competències i els coneixements adquirits per l’estudiant de manera individual.
 
 ## Índex
+
+## Teoria
 ### 0. Introducció
 
 - [[0-presentacio.pdf|Presentació de l'asignatura]]
@@ -134,6 +139,8 @@ En aquesta assignatura **no està permès l’ús d’eines d’Inteŀligència 
 
 - [[conceptes-basics|Conceptes bàsics]]
 - [[t1-primers-contactes.pdf|Primers contactes amb la programació]]
+
+## Problemes
 
 
 
