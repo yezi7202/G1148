@@ -7,4 +7,3 @@
 ### Teoria
 
 - [[01-apunts-conjunts.pdf|Apunts de conjunts]]
-- 
