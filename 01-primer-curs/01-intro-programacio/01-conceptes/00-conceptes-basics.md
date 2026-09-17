@@ -1,4 +1,4 @@
-![[01-conceptes-basics.pdf]]
+![[00-conceptes-basics.pdf]]
 
 Un programa d'ordinador sorgeix de la necessitat de resoldre problemes concrets. La seva definició es pot dividir entre 2 conceptes:
 
