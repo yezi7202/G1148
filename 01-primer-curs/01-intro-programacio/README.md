@@ -8,5 +8,5 @@
 ### TEMA 1: Conceptes bàsics
 
 - [[01-conceptes-basics.pdf|Conceptes bàsics]]
-- [[02-primers-contactes.pdf|Primers contactes amb la programació]]
+- [[01-primers-contactes.pdf|Primers contactes amb la programació]]
 
