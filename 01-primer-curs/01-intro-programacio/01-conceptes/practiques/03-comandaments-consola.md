@@ -1,20 +1,20 @@
-# Comandos terminal
+# Llistat de comandaments
 
-pwd (en qué directorio me encuentro)
-ls (listar directorios y archivos)
-ls -l (listar directorios y archivos en forma de "lista")
-ls -la (agrego "a" para ver los ficheros ocultos)
-clear (limpiar comandos en consola)
-cd (cambiar directorio)
-cd .. (volver al directorio padre)
-mkdir "nombre" (crear un directorio)
-rm "fichero" (eliminar un fichero definitivamente, no existe la papelera)
-rm -rf (borrar todo el directorio incluyendo subdirectorios y demás ficheros, sin preguntar)
-cat (mostrar el contenido de un fichero)
-*puedes instalar bat para poder ver el contenido de un fichero con sintaxis de colores, número de líneas etc...*
-*podemos autocompletar usando la tecla TAB*
-*podemos recuperar comandos escritos anteriormente con la tecla ↑*
-echo "mensaje" (imprime texto, string y variables a la terminal)
-echo "mensaje" > "fichero" (imprime texto, string y variables a un fichero)
-more "fichero" (similar a echo, pero muestra texto por páginas)
-cp "fichero de origen" "destino"
+pwd (en quin directori em trobo)  
+ls (llistar directoris i arxius)  
+ls -l (llistar directoris i arxius en forma de "llista")  
+ls -la (agrego "a" per a veure els fitxers ocults)  
+clear (netejar comandos en consola)  
+cd (canviar directori)  
+cd .. (tornar al directori pare)  
+mkdir "nom" (crear un directori)  
+rm "fitxer" (eliminar un fitxer definitivament, no existeix la paperera)  
+rm -rf (esborrar tot el directori incloent subdirectoris i altres fitxers, sense preguntar)  
+cat (mostrar el contingut d'un fitxer)  
+pots instal·lar bat per a poder veure el contingut d'un fitxer amb sintaxi de colors, nombre de línies etc...*  
+podem autocompletar usant la tecla TAB*  
+podem recuperar comandos escrits anteriorment amb la tecla ↑*  
+tiro "missatge" (imprimeix text, string i variables a la terminal)  
+tiro "missatge" > "fitxer" (imprimeix text, string i variables a un fitxer)  
+habiti "fitxer" (similar a tiro, però mostra text per pàgines)  
+cp "fitxer d'origen" "destinació"
