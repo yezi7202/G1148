@@ -1,4 +1,6 @@
 
+## Funcions
+
 La funció principal **main()** és on s'executa els comandos del programa. No obstant això, s'empra les **funcions**, que són conjunts d'instruccions per a fer tasques especifiques, que en aquest cas permeten avantatges com la reutilització de codi, resolució de problemes majors reduint la magnitud, evitar repetició de línies, facilitar la lectura, manteniment del programa, etc...
 
 ```c
@@ -15,4 +17,4 @@ Quan definim la funció *saludar()*, hem de seguir la següent estructura:
 - Tipus de paràmetre: el valor que rebrà la funció per a executar-se.
 - Cos: dins de les claus on col·loquem les instruccions que realitzen aquesta funció.
 
-
+## 

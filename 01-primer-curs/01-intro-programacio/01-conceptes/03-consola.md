@@ -1,5 +1,5 @@
 Una consola és un programa que permet executar altres programes i órdres de sistema operatiu.
-# Llistat de comandaments
+## Llistat de comandaments
 
 pwd (en quin directori em trobo)  
 ls (llistar directoris i arxius)  
