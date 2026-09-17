@@ -1,3 +1,40 @@
+
+vim "fichero" (crear un fichero en vim)
+
+Modos de vim:
+- Normal: modo con el que inicia vim, no permite escribir texto ya que se interpreta las teclas como órdenes. Se usa la **tecla ESC** para entrar en el modo normal.
+- Insertar: modo que permite escribir texto, se entra mediante la **tecla i**.
+
+```c
+#include <stdio.h> // bliblioteca estándar para comandos de entrada y salida
+
+int main(void) { // función donde C empieza a ejecutar el programa, en este caso devuelve un número entero (int) y no recibe ningún parámetro (void).
+
+	printf("Hola mundo\n") // "\n" es una nueva línea (como en cpp)
+	return 0; // los camandos terminan en ;, devolvemos un 0 para decir al ordenador que nuestro programa ha ejecutado de forma correcta
+
+
+} // las instrucciones empiezan y terminan en llaves
+ 
+```
+
+comando de compilación (crear fichero objeto):
+
+```
+gcc -std=c17 -Wall -Wextra -pedantic -c hello.c
+```
+
+-std=c17 (estándar de C que incluye correcciones y amplio soporte en compiladores, verisión estable).
+-Wall (advertencias habituales de compilación)
+-Wextra (advertencias adicionales)
+-pedantic (comprobar que el programa sigue estrictamente los estándares)
+-c "archivo" (compilar)
+
+
+
+
+
+
 ## 1. Ayuda y comandos generales
 
 ```text
@@ -6,12 +43,6 @@
 :close            Cerrar ventana actual
 :terminal         Abrir terminal dentro de Vim
 K                 Abrir el manual de la palabra bajo el cursor
-```
-
-Para aprender Vim de forma interactiva:
-
-```bash
-vimtutor
 ```
 
 ---
