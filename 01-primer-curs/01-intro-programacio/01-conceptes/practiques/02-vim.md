@@ -1,5 +1,5 @@
 
-vim "fitxer" (crear un fitxer en vim)
+vim "fitxer" (crear un fitxer en vim desde consola)
 
 Modes de *vim:
 - Normal: mode amb què inicia vim, no permet escriure text ja que s'interpreta les tecles com a ordres. S'usa la *tecla ESC* per a entrar en el mode normal.
